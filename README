@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2139
+
+Syntax highlighting for the Smart Game Format, which is the default savegame format for the two-player Go game.
+It is not very complete yet, as I'll work on it as the need arises. But it makes it a lot easier to dig through the SGF information already than just having everything white on black.
